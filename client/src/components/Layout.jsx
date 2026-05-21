@@ -12,12 +12,13 @@ export default function Layout() {
       <aside className="sidebar">
         <div className="sidebar-header">
           <div className="sidebar-logo">
-            <svg width="32" height="32" viewBox="0 0 48 48" fill="none">
-              <rect width="48" height="48" rx="12" fill="url(#lg)" />
-              <path d="M14 34V18L24 12L34 18V34L24 28L14 34Z" stroke="#fff" strokeWidth="2.5" fill="none" />
-              <circle cx="24" cy="22" r="4" fill="#fff" opacity="0.9" />
-              <defs><linearGradient id="lg" x1="0" y1="0" x2="48" y2="48"><stop stopColor="#8b5cf6" /><stop offset="1" stopColor="#06b6d4" /></linearGradient></defs>
-            </svg>
+            <img
+              src="/ethara-icon.png"
+              alt=""
+              className="sidebar-logo-icon"
+              width={32}
+              height={32}
+            />
             <span>Ethara AI</span>
           </div>
         </div>
