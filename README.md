@@ -4,20 +4,19 @@ A full-stack web application for team project management, task assignment, and p
 
 **Built by Ethara AI**
 
-🔗 **Live URL:** [https://web-production-228f7.up.railway.app](https://web-production-228f7.up.railway.app)  
-📦 **GitHub Repo:** [https://github.com/HassamUmar/TeamTracker](https://github.com/HassamUmar/TeamTracker.git)
-
+🔗 **Live URL:** https://ethara-ai-production-9768.up.railway.app/login
+📦 **GitHub Repo:** https://github.com/Chirag0603/Ethara-ai.git
 ---
 
 ## 🚀 Features
 
-- **Authentication** — Signup & Login with JWT tokens (first user auto-promoted to Admin)
-- **Role-Based Access Control** — Admin & Member roles at both global and project levels
-- **Project Management** — Create, edit, delete projects with descriptions and status tracking
-- **Task Management** — Kanban-style board with 4 columns (To Do / In Progress / Review / Done)
-- **Team Management** — Add/remove project members with role-based permissions
-- **Dashboard** — Real-time stats: task breakdown, overdue tasks, recent activity, completion %
-- **Responsive Design** — Works on desktop, tablet, and mobile
+Secure User Authentication — User registration and login system powered by JWT-based authentication, with automatic Admin access assigned to the first registered user
+Access & Permission Management — Multi-level role authorization supporting Admin and Member privileges across the platform and individual projects
+Project Workspace Management — Create, update, organize, and monitor projects with detailed descriptions and progress status
+Task Workflow System — Interactive Kanban board featuring task stages: To Do, In Progress, Review, and Completed
+Collaborative Team Handling — Manage project participants by adding or removing members with permission-based controls
+Analytics Dashboard — Live project insights including task distribution, overdue tracking, recent updates, and overall completion metrics
+Fully Responsive Interface — Optimized user experience across desktop, tablet, and mobile devices
 
 ## ⚙️ Tech Stack
 
@@ -125,8 +124,8 @@ ethara-task-manager/
 
 ## ✅ Submission Checklist
 
-- [x] Live URL: https://web-production-228f7.up.railway.app
-- [x] GitHub Repo: https://github.com/HassamUmar/TeamTracker
+- [x] Live URL: https://ethara-ai-production-9768.up.railway.app/login 
+- [x] GitHub Repo: https://github.com/Chirag0603/Ethara-ai.git
 - [x] README documentation
 - [ ] 2–5 min demo video
 
